@@ -6,12 +6,16 @@
 Welcome to Dueling Dogs Media Assets
 =====================================================
 
+.. image:: images/dueling-dogs-logo.png
+
+
+
 Contents:
 
 .. toctree::
    :maxdepth: 2
    :caption: Dueling Dogs Media Assets
-   
+
    logo
    photos
    video
