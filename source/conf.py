@@ -30,7 +30,7 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
 
 def setup(app):
     app.add_stylesheet('css/paymentfont.css')
-    app.add_javascript('jira.js')
+    
 
 html_context = {
   "display_github": False, # Add 'Edit on Github' link instead of 'View page source'
