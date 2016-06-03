@@ -1,7 +1,7 @@
 Dueling Dogs Videos
 ======================
 
-Dueling Dogs has several videos available that can be used for official marketing of Dueling Dogs events. They can be downloaded from the link below or feel free to embed any videos from our Dueling Dogs YouTube channel or share the link directly.
+`Dueling Dogs <https://duelingdogs.net>`_ has several videos available that can be used for official marketing of `Dueling Dogs events <https://duelingdogs.net/events/>`_. They can be downloaded from the link below or feel free to embed any videos from our `Dueling Dogs YouTube channel <https://www.youtube.com/c/DuelingdogsNet>`_ or share the link directly.
 
 Video Downloads
 ~~~~~~~~~~~~~~~~~~~~
