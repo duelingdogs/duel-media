@@ -6,7 +6,7 @@
 Welcome to Dueling Dogs Media Assets
 =====================================================
 
-.. image:: images/dueling-dogs-logo.png
+.. image:: images/duelingdogs-logo.png
 
 
 
