@@ -11,7 +11,11 @@ Logo Usage Style Guide
 
 .. image:: images/duelingdogs-logo.png
 
+* Use this version on a light colored background.
 
+.. image:: images/duelingdogs-logo-white.png
+
+* Use this version on a dark colored background.
 
 Logo Download
 ~~~~~~~~~~~~~~~~~

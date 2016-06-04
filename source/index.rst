@@ -22,3 +22,9 @@ Copyright 2016 (C) `Dueling Dogs, LLC. <https://duelingdogs.net>`_ All Rights Re
    photos
    video
    social-media
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Questions? 
+
+   contact
